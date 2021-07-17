@@ -6,43 +6,50 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            var numbers = new int[] { 1, 4, 5, 2, 4, 2 };
+            try
+            {
+                var numbers = new int[] { 1, 4, 5, 2, 4, 2 };
 
-            Console.WriteLine("Length {0}", numbers.Length);
+                Console.WriteLine("Length {0}", numbers.Length);
 
-            var index = Array.IndexOf(numbers, 2);
-            Console.WriteLine("Index of 2 is {0}", index);
+                var index = Array.IndexOf(numbers, 2);
+                Console.WriteLine("Index of 2 is {0}", index);
 
-            Array.Clear(numbers, 0, 2);
-            Console.WriteLine("Effect of Clear()");
-            foreach (var item in numbers)
-                Console.Write(item + ", ");
+                Array.Clear(numbers, 0, 2);
+                Console.WriteLine("Effect of Clear()");
+                foreach (var item in numbers)
+                    Console.Write(item + ", ");
 
-            Console.WriteLine();
+                Console.WriteLine();
 
-            var another = new int[3];
-            Array.Copy(numbers, another, 3);
-            Console.WriteLine("Effect of Copy()");
-            foreach (var item in another)
-                Console.Write($"{item}, ");
+                var another = new int[3];
+                Array.Copy(numbers, another, 3);
+                Console.WriteLine("Effect of Copy()");
+                foreach (var item in another)
+                    Console.Write($"{item}, ");
 
-            Console.WriteLine();
+                Console.WriteLine();
 
-            Array.Sort(numbers);
-            Console.WriteLine("Effect of Sort()");
-            foreach (var item in numbers)
-                Console.Write($"{item}, ");
+                Array.Sort(numbers);
+                Console.WriteLine("Effect of Sort()");
+                foreach (var item in numbers)
+                    Console.Write($"{item}, ");
 
-            Console.WriteLine();
+                Console.WriteLine();
 
-            Array.Reverse(numbers);
-            Console.WriteLine("Effect of Reverse()");
-            foreach (var item in numbers)
-                Console.Write($"{item}, ");
+                Array.Reverse(numbers);
+                Console.WriteLine("Effect of Reverse()");
+                foreach (var item in numbers)
+                    Console.Write($"{item}, ");
 
-            Console.WriteLine();
+                Console.WriteLine();
 
-            ReverseString("Filipe");
+                ReverseString("Filipe");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
         }
 
         public static void ReverseString(string str)
