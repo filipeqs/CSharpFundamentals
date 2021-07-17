@@ -1,0 +1,12 @@
+/Users/filipeqs/Projects/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp3.1/CSharpFundamentals.deps.json
+/Users/filipeqs/Projects/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp3.1/CSharpFundamentals.runtimeconfig.json
+/Users/filipeqs/Projects/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp3.1/CSharpFundamentals.runtimeconfig.dev.json
+/Users/filipeqs/Projects/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp3.1/CSharpFundamentals.dll
+/Users/filipeqs/Projects/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp3.1/CSharpFundamentals.pdb
+/Users/filipeqs/Projects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.csproj.AssemblyReference.cache
+/Users/filipeqs/Projects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/filipeqs/Projects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.AssemblyInfo.cs
+/Users/filipeqs/Projects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Projects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.dll
+/Users/filipeqs/Projects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.pdb
+/Users/filipeqs/Projects/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.genruntimeconfig.cache

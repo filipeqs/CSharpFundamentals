@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{082B840D-025C-47AB-8444-C636EBEE3B93}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpFundamentals/Program.cs">
+    <Files>
+      <File FileName="CSharpFundamentals/Program.cs" Line="11" Column="32" />
+      <File FileName="CSharpFundamentals/Math/Calculator.cs" />
+      <File FileName="CSharpFundamentals/Person.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpFundamentals" expanded="True">
+            <Node name="CSharpFundamentals" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CSharpFundamentals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
