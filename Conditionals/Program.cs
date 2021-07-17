@@ -6,7 +6,14 @@ namespace Conditionals
     {
         static void Main(string[] args)
         {
-            QuestionFour();
+            try
+            {
+                QuestionFour();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
         }
 
         // 1- Write a program and ask the user to enter a number.

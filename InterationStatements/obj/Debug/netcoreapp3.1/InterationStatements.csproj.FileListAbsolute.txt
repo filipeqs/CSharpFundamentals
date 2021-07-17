@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/InterationStatements/bin/Debug/netcoreapp3.1/InterationStatements.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/InterationStatements/bin/Debug/netcoreapp3.1/InterationStatements.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/InterationStatements/bin/Debug/netcoreapp3.1/InterationStatements.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/InterationStatements/bin/Debug/netcoreapp3.1/InterationStatements.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/InterationStatements/bin/Debug/netcoreapp3.1/InterationStatements.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/InterationStatements/obj/Debug/netcoreapp3.1/InterationStatements.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/InterationStatements/obj/Debug/netcoreapp3.1/InterationStatements.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/InterationStatements/obj/Debug/netcoreapp3.1/InterationStatements.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/InterationStatements/obj/Debug/netcoreapp3.1/InterationStatements.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/InterationStatements/obj/Debug/netcoreapp3.1/InterationStatements.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/InterationStatements/obj/Debug/netcoreapp3.1/InterationStatements.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/InterationStatements/obj/Debug/netcoreapp3.1/InterationStatements.genruntimeconfig.cache
