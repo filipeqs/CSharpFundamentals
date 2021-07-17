@@ -15,5 +15,11 @@ namespace CSharpFundamentals
         {
             Console.WriteLine($"Hi, my name is {FirstName}");
         }
+
+        public void Greetings()
+        {
+            Introduce();
+        }
+
     }
 }
