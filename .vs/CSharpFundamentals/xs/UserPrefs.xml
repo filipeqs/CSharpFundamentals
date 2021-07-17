@@ -1,19 +1,15 @@
-﻿<Properties StartupConfiguration="{082B840D-025C-47AB-8444-C636EBEE3B93}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpFundamentals/Math/ShippingMethods.cs">
+﻿<Properties StartupConfiguration="{1A8E51C9-48EE-4AF6-8EE7-1CAD95348CBA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Conditionals FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Conditionals/Program.cs">
     <Files>
-      <File FileName="CSharpFundamentals/Program.cs" Line="42" Column="42" />
-      <File FileName="CSharpFundamentals/Person.cs" Line="19" Column="15" />
-      <File FileName="CSharpFundamentals/Math/Calculator.cs" Line="1" Column="1" />
-      <File FileName="CSharpFundamentals/Math/ShippingMethods.cs" Line="4" Column="6" />
+      <File FileName="Conditionals/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpFundamentals" expanded="True">
-            <Node name="CSharpFundamentals" expanded="True">
-              <Node name="Math" expanded="True">
-                <Node name="ShippingMethods.cs" selected="True" />
-              </Node>
+            <Node name="Conditionals" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

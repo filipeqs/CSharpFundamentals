@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Conditionals/bin/Debug/netcoreapp3.1/Conditionals.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Conditionals/bin/Debug/netcoreapp3.1/Conditionals.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Conditionals/bin/Debug/netcoreapp3.1/Conditionals.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Conditionals/bin/Debug/netcoreapp3.1/Conditionals.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Conditionals/bin/Debug/netcoreapp3.1/Conditionals.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Conditionals/obj/Debug/netcoreapp3.1/Conditionals.genruntimeconfig.cache
