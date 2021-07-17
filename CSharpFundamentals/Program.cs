@@ -14,14 +14,25 @@ namespace CSharpFundamentals
                 filipe.Introduce();
 
                 var sum = Calculator.Add(1, 2);
-
-                ArrayExplore();
-                StringExplore();
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
             }
+        }
+
+        public static void StringExplore()
+        {
+            var name = "filipe";
+            Console.WriteLine(name[2]);
+            foreach (var letter in Convert.ToString(name))
+                Console.WriteLine(letter);
+            var splitname = name.Split("");
+            Console.WriteLine(splitname);
+
+            var numbers = new int[] { 1, 2, 3, 4 };
+            var numberList = string.Join(",", numbers);
+            Console.WriteLine(numberList);
         }
 
         public static void ArrayExplore()
@@ -33,16 +44,15 @@ namespace CSharpFundamentals
              // Console.WriteLine(numbers[10]); Error
         }
 
-        public static void StringExplore()
+        public static void EnumExplore()
         {
-            var name = "filipe";
-            Console.WriteLine(name[2]);
-            foreach (var letter in Convert.ToString(name))
-                Console.WriteLine(letter);
+            Console.WriteLine((int)ShippingMethods.Express);
+            var methodId = 3;
+            Console.WriteLine((ShippingMethods)methodId);
 
-            var numbers = new int[] { 1, 2, 3, 4 };
-            var numberList = string.Join(",", numbers);
-            Console.WriteLine(numberList);
+            var methodName = "Express";
+            var shippingMethod = (ShippingMethods)Enum.Parse(typeof(ShippingMethods), methodName);
+            Console.WriteLine(shippingMethod);
         }
     }
 }
