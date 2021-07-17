@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Arrays/bin/Debug/netcoreapp3.1/Arrays.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Arrays/bin/Debug/netcoreapp3.1/Arrays.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Arrays/bin/Debug/netcoreapp3.1/Arrays.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Arrays/obj/Debug/netcoreapp3.1/Arrays.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Arrays/obj/Debug/netcoreapp3.1/Arrays.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Arrays/obj/Debug/netcoreapp3.1/Arrays.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Arrays/obj/Debug/netcoreapp3.1/Arrays.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Arrays/obj/Debug/netcoreapp3.1/Arrays.genruntimeconfig.cache

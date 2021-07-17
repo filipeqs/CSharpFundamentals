@@ -1,22 +1,21 @@
-﻿<Properties StartupConfiguration="{C66AD76F-FA4D-4FD5-9C5A-53D55A75CED2}|Default">
+﻿<Properties StartupConfiguration="{6FFEDD6F-76EF-4039-A2B9-A65A70D5B7A1}|Default">
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InterationStatements/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Arrays/Program.cs">
     <Files>
-      <File FileName="InterationStatements/Program.cs" Line="15" Column="48" />
+      <File FileName="InterationStatements/Program.cs" Line="12" Column="14" />
+      <File FileName="Arrays/Program.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpFundamentals" expanded="True">
-            <Node name="Conditionals" expanded="True" />
-            <Node name="InterationStatements" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="Arrays" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Arrays FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.InterationStatements PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.CSharpFundamentals PreferredExecutionTarget="MonoDevelop.Default" />
