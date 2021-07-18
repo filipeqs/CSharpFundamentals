@@ -2,15 +2,16 @@
   <MonoDevelop.Ide.ItemProperties.Files FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Dates PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Directories/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Paths/Program.cs">
     <Files>
-      <File FileName="Directories/Program.cs" Line="10" Column="47" />
+      <File FileName="Directories/Program.cs" Line="28" Column="44" />
+      <File FileName="Paths/Program.cs" Line="2" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpFundamentals" expanded="True">
-            <Node name="Directories" expanded="True">
+            <Node name="Paths" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -19,6 +20,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.TimeSpans PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Paths FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ListArrayExercises PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.InterationStatements PreferredExecutionTarget="MonoDevelop.Default" />
