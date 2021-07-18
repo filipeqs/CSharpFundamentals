@@ -1,17 +1,16 @@
-﻿<Properties StartupConfiguration="{8E702AA9-05B2-43D1-84DF-DE1C2D7FDC98}|Default">
+﻿<Properties StartupConfiguration="{072D1F7D-A7AB-48D1-BFB6-FF5FD98A7FFB}|Default">
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ListArrayExercises/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Dates FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dates/Program.cs">
     <Files>
-      <File FileName="ListArrayExercises/Program.cs" Line="12" Column="29" />
+      <File FileName="Dates/Program.cs" Line="9" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpFundamentals" expanded="True">
-            <Node name="ListArrayExercises" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="Lists" expanded="True" />
+            <Node name="Dates" expanded="True" selected="True" />
+            <Node name="ListArrayExercises" expanded="True" />
           </Node>
         </State>
       </Pad>

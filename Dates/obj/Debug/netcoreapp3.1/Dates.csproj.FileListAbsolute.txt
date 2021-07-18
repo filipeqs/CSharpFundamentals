@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Dates/bin/Debug/netcoreapp3.1/Dates.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Dates/bin/Debug/netcoreapp3.1/Dates.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Dates/bin/Debug/netcoreapp3.1/Dates.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Dates/bin/Debug/netcoreapp3.1/Dates.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Dates/bin/Debug/netcoreapp3.1/Dates.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Dates/obj/Debug/netcoreapp3.1/Dates.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Dates/obj/Debug/netcoreapp3.1/Dates.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Dates/obj/Debug/netcoreapp3.1/Dates.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Dates/obj/Debug/netcoreapp3.1/Dates.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Dates/obj/Debug/netcoreapp3.1/Dates.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Dates/obj/Debug/netcoreapp3.1/Dates.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Dates/obj/Debug/netcoreapp3.1/Dates.genruntimeconfig.cache
