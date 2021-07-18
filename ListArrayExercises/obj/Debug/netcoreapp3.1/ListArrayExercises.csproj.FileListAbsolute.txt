@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/ListArrayExercises/bin/Debug/netcoreapp3.1/ListArrayExercises.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/ListArrayExercises/bin/Debug/netcoreapp3.1/ListArrayExercises.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/ListArrayExercises/bin/Debug/netcoreapp3.1/ListArrayExercises.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/ListArrayExercises/bin/Debug/netcoreapp3.1/ListArrayExercises.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/ListArrayExercises/bin/Debug/netcoreapp3.1/ListArrayExercises.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/ListArrayExercises/obj/Debug/netcoreapp3.1/ListArrayExercises.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/ListArrayExercises/obj/Debug/netcoreapp3.1/ListArrayExercises.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/ListArrayExercises/obj/Debug/netcoreapp3.1/ListArrayExercises.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/ListArrayExercises/obj/Debug/netcoreapp3.1/ListArrayExercises.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/ListArrayExercises/obj/Debug/netcoreapp3.1/ListArrayExercises.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/ListArrayExercises/obj/Debug/netcoreapp3.1/ListArrayExercises.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/ListArrayExercises/obj/Debug/netcoreapp3.1/ListArrayExercises.genruntimeconfig.cache

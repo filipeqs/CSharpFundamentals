@@ -1,28 +1,28 @@
-﻿<Properties StartupConfiguration="{D8B11057-377A-4EED-AE5D-CEC9D6ECF438}|Default">
+﻿<Properties StartupConfiguration="{8E702AA9-05B2-43D1-84DF-DE1C2D7FDC98}|Default">
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lists/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListArrayExercises/Program.cs">
     <Files>
-      <File FileName="Lists/Program.cs" Line="13" Column="10" />
+      <File FileName="ListArrayExercises/Program.cs" Line="12" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpFundamentals" expanded="True">
-            <Node name="Arrays" expanded="True" />
-            <Node name="InterationStatements" expanded="True" />
-            <Node name="Lists" expanded="True">
+            <Node name="ListArrayExercises" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="Lists" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListArrayExercises PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.InterationStatements PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.CSharpFundamentals PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Lists FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lists PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
