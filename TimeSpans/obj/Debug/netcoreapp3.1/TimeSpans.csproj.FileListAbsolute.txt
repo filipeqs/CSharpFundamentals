@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/TimeSpans/bin/Debug/netcoreapp3.1/TimeSpans.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/TimeSpans/bin/Debug/netcoreapp3.1/TimeSpans.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/TimeSpans/bin/Debug/netcoreapp3.1/TimeSpans.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/TimeSpans/bin/Debug/netcoreapp3.1/TimeSpans.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/TimeSpans/bin/Debug/netcoreapp3.1/TimeSpans.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/TimeSpans/obj/Debug/netcoreapp3.1/TimeSpans.genruntimeconfig.cache

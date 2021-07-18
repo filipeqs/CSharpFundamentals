@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListArrayExercises", "ListA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dates", "Dates\Dates.csproj", "{072D1F7D-A7AB-48D1-BFB6-FF5FD98A7FFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSpans", "TimeSpans\TimeSpans.csproj", "{DDAE1F11-C111-49B4-91E3-89DCFC5B17F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{072D1F7D-A7AB-48D1-BFB6-FF5FD98A7FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{072D1F7D-A7AB-48D1-BFB6-FF5FD98A7FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{072D1F7D-A7AB-48D1-BFB6-FF5FD98A7FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDAE1F11-C111-49B4-91E3-89DCFC5B17F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAE1F11-C111-49B4-91E3-89DCFC5B17F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAE1F11-C111-49B4-91E3-89DCFC5B17F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAE1F11-C111-49B4-91E3-89DCFC5B17F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
