@@ -36,6 +36,8 @@ namespace Strings
             Console.WriteLine(summary);
 
             Builder.Run();
+
+            Exercises.Run();
         }
     }
 }
