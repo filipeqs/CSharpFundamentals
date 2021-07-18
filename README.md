@@ -1,6 +1,6 @@
 # CSharpFundamentals
 
-Small notes from C# Basics Beginners Course
+Notes from C# Basics Beginners Course
 
 ---
 
