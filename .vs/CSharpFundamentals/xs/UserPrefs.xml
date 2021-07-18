@@ -1,18 +1,18 @@
-﻿<Properties StartupConfiguration="{DDAE1F11-C111-49B4-91E3-89DCFC5B17F6}|Default">
+﻿<Properties StartupConfiguration="{F6BD664F-2B02-4986-B132-8E851FB8A802}|Default">
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Dates PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TimeSpans/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Strings/Builder.cs">
     <Files>
-      <File FileName="TimeSpans/Program.cs" Line="28" Column="46" />
+      <File FileName="Strings/Program.cs" Line="29" Column="46" />
+      <File FileName="Strings/Builder.cs" Line="8" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpFundamentals" expanded="True">
-            <Node name="Dates" expanded="True" />
-            <Node name="ListArrayExercises" expanded="True" />
-            <Node name="TimeSpans" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="Lists" expanded="True" />
+            <Node name="Strings" expanded="True">
+              <Node name="Builder.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -31,4 +31,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Strings PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

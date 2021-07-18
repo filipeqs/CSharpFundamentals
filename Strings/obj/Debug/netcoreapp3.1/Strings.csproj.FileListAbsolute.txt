@@ -1,0 +1,12 @@
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Strings/bin/Debug/netcoreapp3.1/Strings.deps.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.dev.json
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Strings/bin/Debug/netcoreapp3.1/Strings.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Strings/bin/Debug/netcoreapp3.1/Strings.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Strings/obj/Debug/netcoreapp3.1/Strings.csproj.AssemblyReference.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfoInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfo.cs
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Strings/obj/Debug/netcoreapp3.1/Strings.csproj.CoreCompileInputs.cache
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Strings/obj/Debug/netcoreapp3.1/Strings.dll
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Strings/obj/Debug/netcoreapp3.1/Strings.pdb
+/Users/filipeqs/Documents/Projects/git/CSharpFundamentals/Strings/obj/Debug/netcoreapp3.1/Strings.genruntimeconfig.cache
